@@ -14,17 +14,24 @@ a{
     color: aquamarine;
     font-size: 16px;
 }
+video {
+    object-fit: contain;
+}
 .main-2 h2{
     font-weight: 300;
     font-size: 42px;
 }
-.main-2 span{
+.main-2 p{
     color: gray;
     font-size: 21px;
 }
 .main-3 h2{
     font-weight: 300;
     font-size: 42px;
+}
+img{
+    padding: 20px;
+    align-self: auto;
 }
 footer{
     text-align: right;
